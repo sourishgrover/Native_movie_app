@@ -16,28 +16,11 @@
 
   <h3 align="center">A Movie Finding App with Extensive Search</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+  
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
 
-2. ⚙️ [Tech Stack](#tech-stack)
-
-3. 🔋 [Features](#features)
-
-4. 🤸 [Quick Start](#quick-start)
-
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-
-6. 🔗 [Assets](#links)
-
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
@@ -290,3 +291,6 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 
 </a>
+=======
+# Native_movie_app
+>>>>>>> 71f0a82e2290c73cb0548cb61d40476d2208b14d
